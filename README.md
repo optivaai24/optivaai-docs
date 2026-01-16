@@ -1,5 +1,8 @@
 # OptivaAI Documentation
 
+Official documentation site: https://docs.optivaai.com
+
+
 This repository contains official public documentation for OptivaAI’s enterprise AI platforms.
 
 ## Platforms
