@@ -2,6 +2,8 @@
 
 Welcome to the public documentation for OptivaAI’s enterprise AI platforms.
 
+Official technical documentation maintained by OptivaAI.
+
 ## Platforms
 - [Nova360](nova360/overview.md)
 - [InsightPro](insightpro/overview.md)
