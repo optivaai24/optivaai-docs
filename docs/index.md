@@ -13,6 +13,7 @@ Official technical documentation maintained by OptivaAI.
 - [Integrations](platform/integrations.md)
 - [Security & Enterprise Readiness](security/enterprise-readiness.md)
 
+
 🌐 Official website: https://www.optivaai.com  
 📩 Request a demo: https://www.optivaai.com/contact
 
